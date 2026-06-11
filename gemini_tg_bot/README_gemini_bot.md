@@ -56,7 +56,7 @@ Telegram-бот на Python, который подключается к Gemini A
 Клонировать репозиторий:
 
 ```bash
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/shushablinchik/internship.git
 cd repository-name
 ```
 
