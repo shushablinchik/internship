@@ -23,3 +23,8 @@ python analysis.py
 ```
 
 Для запуска нужны `pandas` и `matplotlib`.
+
+## Результаты
+
+![Выручка по дням](figures/revenue_by_day.png)
+![Выручка по категориям](figures/revenue_by_category.png)
